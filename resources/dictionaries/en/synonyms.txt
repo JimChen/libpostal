@@ -51,3 +51,5 @@ ville|vl
 villages|vlgs
 wood|wd
 woods|wds
+apartment|apart
+Housenumber|house
