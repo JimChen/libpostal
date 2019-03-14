@@ -1,4 +1,4 @@
-floor|fl|flr|/ f
+floor|fl|flr|f|/ f
 level|lev|levl|lvel|lvl|l|/ l
 platform|pf
 storey
